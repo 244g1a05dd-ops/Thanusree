@@ -12,7 +12,6 @@ class DisplayDefaultprimitiveType{
  byte primbyte;
  public static void main(String args[]){
   DisplayDefaultprimitiveType tt = new DisplayDefaultprimitiveType();
-
    System.out.println("Enter default value of int:"+tt.primint);
    System.out.println("Enter default value of char:"+tt.primchar);
    System.out.println("Enter default value of double:"+tt.primdouble);
@@ -23,8 +22,6 @@ class DisplayDefaultprimitiveType{
                                          }
                                     }
 '''
-OUTPUT :
-<img src="image.jpg" alt="1a.png">
-
-
+#OUTPUT :
+![output](1a.png).
 
