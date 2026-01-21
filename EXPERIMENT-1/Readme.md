@@ -153,5 +153,3 @@ class Main {
 ```
 # OUTPUT:
 ![output of exp2c](2c.PNG).
-# 2b)
-# SOURCE CODE:
