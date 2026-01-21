@@ -21,4 +21,4 @@ class DisplayDefaultPrimitiveType {
   }
 ```
 # OUTPUT:
-![output of exp 1a](dd.png).
+![output of exp 1a](dd.PNG).
