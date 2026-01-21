@@ -62,3 +62,35 @@ class QuadraticRoots {
 ```
 # OUTPUT :
 ![output of exp 1b](1b.PNG).
+
+
+## EXPERIMENT-2
+```
+# 2a)
+# SOURCE CODE :
+nano Rectangle.java
+class Rectangle {
+  double length;
+  double breadth;
+  double area() {
+    return length*breadth;
+    }
+    double perimeter() {
+      return 2*(length+breadth);
+      }
+    }
+nano Main.java
+class Main {
+  public static void main(String[] args) {
+     Rectangle rect = new Rectangle();
+     rect.length = 10;
+     rect.breadth = 5;
+     double area = rect.area();
+     double perimeter = rect.perimeter();
+     System.out.println("Area of given rectangle : " + area);
+     System.out.println("perimeter of given rectangle : " + perimeter);
+     }
+   }
+```
+# OUTPUT :
+![output of exp2a](2a.PNG).
