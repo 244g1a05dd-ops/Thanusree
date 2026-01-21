@@ -1,6 +1,6 @@
-# EXPERIMENT-1
-## SOURCECODE :
-## 1a)
+## EXPERIMENT-1
+#SOURCECODE :
+# 1a)
 '''java
 class DisplayDefaultprimitiveType{
  int primint;
