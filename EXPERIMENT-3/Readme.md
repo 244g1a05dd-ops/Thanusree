@@ -31,7 +31,6 @@ class Main {
 #OUTPUT:
 ![output of exp3a](3a.PNG)
 #3b)
-```
 #SOURCECODE :
 ```
 import java.util.Scanner;
@@ -74,6 +73,7 @@ public class BinarySearchExample {
 ```
 #OUTPUT:
 ![output of exp3b](3b.PNG)
+
 #3c)
 ```
 #SOURCECODE :
