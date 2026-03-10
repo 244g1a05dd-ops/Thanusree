@@ -1,7 +1,7 @@
 ##EXPERIMENT-6
-#EXPERIMENT-6a
-#SOURCE CODE:
+#6a)
 ```
+#SOURCE CODE:
 import java.util.Scanner;
 public class ArrayExceptionHandling {
     public static void main(String[] args) {
@@ -26,4 +26,4 @@ public class ArrayExceptionHandling {
 }
 ```
 #OUTPUT:
-![output](6a.PNG)
+![output of exp6a](6a.PNG)
